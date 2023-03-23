@@ -1,0 +1,13 @@
+﻿A-Month,Ticker,A_Year,AAPL Avg  sentiment,Sum of AAPL_close
+January,AAPL,2022,1,170
+February,AAPL,2022,-2,170
+March,AAPL,2022,-2,165
+April,AAPL,2022,-4,167
+May,AAPL,2022,-2,148
+June,AAPL,2022,3,140
+July,AAPL,2022,1,150
+August,AAPL,2022,0,167
+September,AAPL,2022,-4,153
+October,AAPL,2022,-4,145
+November,AAPL,2022,-4,146
+December,AAPL,2022,-4,138
